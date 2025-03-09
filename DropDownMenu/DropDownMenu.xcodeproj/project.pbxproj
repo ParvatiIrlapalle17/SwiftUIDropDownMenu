@@ -16,6 +16,7 @@
 		185EF4362D7DA4150073B024 /* DropDownMenuUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF4352D7DA4150073B024 /* DropDownMenuUITests.swift */; };
 		185EF4382D7DA4150073B024 /* DropDownMenuUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF4372D7DA4150073B024 /* DropDownMenuUITestsLaunchTests.swift */; };
 		185EF4452D7DA4530073B024 /* CustomDropDownMenu.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF4442D7DA4530073B024 /* CustomDropDownMenu.swift */; };
+		185EF4482D7DA69F0073B024 /* ImprovedVersion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 185EF4472D7DA69F0073B024 /* ImprovedVersion.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		185EF4352D7DA4150073B024 /* DropDownMenuUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownMenuUITests.swift; sourceTree = "<group>"; };
 		185EF4372D7DA4150073B024 /* DropDownMenuUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropDownMenuUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		185EF4442D7DA4530073B024 /* CustomDropDownMenu.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomDropDownMenu.swift; sourceTree = "<group>"; };
+		185EF4472D7DA69F0073B024 /* ImprovedVersion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImprovedVersion.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -137,6 +139,7 @@
 			isa = PBXGroup;
 			children = (
 				185EF4442D7DA4530073B024 /* CustomDropDownMenu.swift */,
+				185EF4472D7DA69F0073B024 /* ImprovedVersion.swift */,
 			);
 			path = DropDown;
 			sourceTree = "<group>";
@@ -273,6 +276,7 @@
 			files = (
 				185EF41F2D7DA4150073B024 /* Persistence.swift in Sources */,
 				185EF4452D7DA4530073B024 /* CustomDropDownMenu.swift in Sources */,
+				185EF4482D7DA69F0073B024 /* ImprovedVersion.swift in Sources */,
 				185EF4162D7DA4140073B024 /* DropDownMenuApp.swift in Sources */,
 				185EF4222D7DA4150073B024 /* DropDownMenu.xcdatamodeld in Sources */,
 			);
